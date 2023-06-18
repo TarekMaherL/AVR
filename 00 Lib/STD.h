@@ -1,8 +1,7 @@
 /*
  * STD.h
  *
- *  Created on: ???/???/????
- *      Author: dell
+ *      Author: Tarek Maher
  */
 
 #ifndef LIB_STD_H_
