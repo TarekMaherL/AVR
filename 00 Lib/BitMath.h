@@ -1,7 +1,6 @@
 /* BitMath.h
  *
- *  Created on: ???/???/????
- *      Author: dell
+ *      Author: Tarek Maher
  */
 
 #ifndef LIB_BITMATH_H_
