@@ -19,7 +19,7 @@
 
 int main(void)
 {
-{
+
 
 	u8 x= 'N';
 	u8 password[]= "159753";
@@ -132,7 +132,7 @@ int main(void)
 			
 		}
 
-}
+
 
 		
 	
